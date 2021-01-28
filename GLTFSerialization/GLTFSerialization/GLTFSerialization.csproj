@@ -107,6 +107,7 @@
     <Compile Include="Schema\GLTFCamera.cs" />
     <Compile Include="Schema\CameraOrthographic.cs" />
     <Compile Include="Schema\CameraPerspective.cs" />
+    <Compile Include="Schema\GLTF_AreaLight.cs" />
     <Compile Include="Schema\GLTF_DirectionalLight.cs" />
     <Compile Include="Schema\GLTF_Light.cs" />
     <Compile Include="Schema\GLTF_PointLight.cs" />
